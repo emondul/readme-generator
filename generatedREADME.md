@@ -1,4 +1,4 @@
-# readme-generator
+# Readme Generator
 
 Author: Emma Mondul
 Github Link: [put github link here]
@@ -17,6 +17,7 @@ A tool to generate a professional readme file for your project
 - [Tests](#tests)
 - [Installs](#installs)
 - [Need to Know](#need-to-know)
+- [How to Contribute](#how-to-contribute)
 - [Contact Me](#contact-me)
 
 ## License
@@ -40,6 +41,8 @@ npm test
 ## Need to Know
 
 You can watch a tutorial on how to use my readme generator here:
+
+## How to Contribute
 
 ## Contact Me
 
