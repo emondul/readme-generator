@@ -38,7 +38,7 @@ npm test
 
 ## Need to Know
 
-You can watch a tutorial on how to use my readme generator here:
+You can watch a tutorial on how to use my readme generator here: https://drive.google.com/file/d/14a8KVBgT0ZMB3Fb-XJ8APN0V4dp1M1q1/view
 
 ## Contact Me
 
