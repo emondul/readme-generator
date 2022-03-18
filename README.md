@@ -1,15 +1,14 @@
 # readme-generator
 
 Author: Emma Mondul
-Github Link: [put github link here]
-Deployed Link: [put site link here]
+Github Link: https://github.com/emondul/readme-generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
 A tool to generate a professional readme file for your project
-[Add a screenshot of your project here]
+![screenshot](/example.png?raw=true "Screenshot")
 
 ## Table of Contents
 
